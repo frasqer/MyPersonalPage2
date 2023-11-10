@@ -1,0 +1,13 @@
+.header-image {
+	background-image: url("header-image.svg");
+	width: 580px;
+    height: 700px;
+}
+.logo {
+	width:89px;
+	height:28px;
+	background-image: url("LOGO.svg");
+	background-repeat: no-repeat;
+}
+
+
